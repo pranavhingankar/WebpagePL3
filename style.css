@@ -1,0 +1,1099 @@
+body {
+  overflow-x: hidden;
+}
+
+
+/******Media Queries******/
+@media only screen and (max-width: 600px) {
+
+ body{
+   overflow-x: hidden;
+ }
+ .navbar-toggler{
+   color: white;
+ }
+  #EpicNav{
+    width: 45rem;
+    overflow-x: hidden;
+  }
+
+   .text{
+    margin-left: 5rem;
+    overflow-x: hidden;
+  }
+
+  .con p{
+    margin-left: 5rem;
+    font-size: 5rem;
+    overflow-x: hidden;
+  }
+  
+  .col-md-7 img{
+    margin-left: 7rem;
+    margin-top: 2rem;
+    overflow-x: hidden;
+  }
+
+  .container .notecard{
+    display: inline-flex;
+    margin-left: 10rem;
+    
+  }
+
+  .port_head  .col-md-12 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+    overflow-x: hidden;
+
+  }
+
+ 
+
+   .ValueHeading {
+    
+     margin-left: -15rem;
+   }
+
+   .ValueHeading h2{
+     padding-left: -15rem;
+     font-size: 1.2rem;
+   }
+  
+   .ValueHeading h1{
+    padding-left: -15rem;
+    font-size: 1.7rem;
+  }
+
+  
+  .main{
+    display:grid;
+    margin-left: 3rem;
+    width: 80rem;
+    overflow-x: hidden;
+  }
+  
+  .cards{
+    margin-left: 2rem;
+    width: 25rem;
+    margin-top: 2rem;
+    overflow-x: hidden;
+   
+  }
+
+ 
+  .Service .Back {
+    margin-left: -24rem;
+    margin-top: 3rem;
+    justify-content: center;
+    overflow-x: hidden;
+  }
+  
+  .Service .Back b{
+    margin-left: 1.2rem;
+    overflow-x: hidden;
+  }
+ 
+
+  .Service .row1 {
+    margin-left: 9rem;
+    width: 80rem;
+    display:grid;
+    overflow-x: hidden;
+    
+  }
+   
+  .card1{
+    padding: 16px;
+    margin-top: 2rem;
+    overflow-x: hidden;
+  }
+
+  .head .Title {
+    width: 15rem; 
+    height: 4rem;
+    font-size: 1.6rem;
+    margin-left: 14rem;
+    overflow-x: hidden;
+   }
+ 
+
+
+   .howweworktext p{
+    font-size: 1rem;
+    margin-right: -9rem;
+    margin-top: 15rem;
+    overflow-x: hidden;
+    
+   }
+
+  .col-md-9 {
+     height: 25rem;
+     margin-top: -15rem;
+     margin-left: -34rem;
+     width: 50rem;
+     
+    }
+    .contactcont {
+    padding: 2px;
+    margin-top: -5rem;
+    overflow-x: hidden;
+  }
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 600px)  {
+
+ 
+  body{
+    overflow-x: hidden;
+  }
+  .navbar-toggler{
+    color: white;
+  }
+   #EpicNav{
+    width: 45rem;
+     overflow-x: hidden;
+   }
+   .text{
+     margin-left: 4rem;
+     overflow-x: hidden;
+   }
+ 
+   .con p{
+     margin-left: 4rem;
+     font-size: 5rem;
+     overflow-x: hidden;
+   }
+   
+   .col-md-7 img{
+     margin-left: 5rem;
+     margin-top: 2rem;
+     overflow-x: hidden;
+   }
+ 
+  
+   .container .notecard{
+     display: inline-flex;
+   
+     
+   }
+ 
+   .port_head  .col-md-12 {
+     margin-top: 2rem;
+     margin-left: 1rem;
+     overflow-x: hidden;
+ 
+   }
+ 
+   
+  .ValueHeading{
+    margin-top: 5rem;
+    margin-left: -17rem;
+  }
+
+   
+  .ValueHeading h2{
+    font-size: 2rem;
+  }
+
+  .ValueHeading h1{
+    font-size: 2.1rem;
+  }
+   
+   .main{
+     display:grid;
+     margin-left: 3rem;
+     width: 80rem;
+     overflow-x: hidden;
+   }
+   
+   .cards{
+     margin-left: 3rem;
+     width: 25rem;
+     margin-top: 2rem;
+     overflow-x: hidden;
+    
+   }
+ 
+  
+   .Service .Back {
+     margin-left: -28rem;
+     margin-top: 3rem;
+     justify-content: center;
+     overflow-x: hidden;
+   }
+   
+   .Service .Back b{
+     margin-left: 7.5rem;
+     overflow-x: hidden;
+   }
+  
+ 
+   .Service .row1 {
+     margin-left: 11rem;
+     width: 80rem;
+     display:grid;
+     overflow-x: hidden;
+     
+   }
+    
+   .card1{
+     padding: 16px;
+     margin-top: 2rem;
+     overflow-x: hidden;
+   }
+ 
+   .head .Title {
+     width: 15rem; 
+     height: 4rem;
+     font-size: 1.6rem;
+     margin-left: 17rem;
+     overflow-x: hidden;
+    }
+  
+
+ 
+    .howweworktext p{
+     font-size: 1rem;
+     margin-right: -5rem;
+     margin-top: 15rem;
+     overflow-x: hidden;
+     
+    }
+ 
+   .col-md-9 {
+      height: 25rem;
+      margin-top: -12rem;
+      margin-left: -34rem;
+      width: 50rem;
+      
+     }
+     
+
+
+}
+
+
+@media only screen and (max-width: 992px) and (min-width: 768px)  {
+
+ 
+  body{
+    overflow-x: hidden;
+  }
+  .navbar-toggler{
+    color: white;
+  }
+   #EpicNav{
+     width: 48rem;
+     overflow-x: hidden;
+   }
+   .text{
+     margin-left: 4rem;
+     overflow-x: hidden;
+   }
+ 
+   .con p{
+     margin-left: 4rem;
+     font-size: 5rem;
+     overflow-x: hidden;
+   }
+   
+   .col-md-7 img{
+     margin-left: 13rem;
+     margin-top: 2rem;
+     overflow-x: hidden;
+   }
+ 
+  
+   .container .notecard{
+     margin-left:9rem;
+   
+     
+   }
+ 
+   .port_head  .col-md-12 {
+     margin-top: 2rem;
+     margin-left: -1rem;
+     overflow-x: hidden;
+ 
+   }
+ 
+
+   .ValueHeading h2{
+    
+    padding-top: 40rem;
+ }
+   .ValueHeading {
+   
+   margin-left: -17rem;
+ }
+   
+   
+   
+   .main{
+     display:grid;
+     margin-left: 3rem;
+     width: 80rem;
+     overflow-x: hidden;
+   }
+   
+   .cards{
+     margin-left: 5rem;
+     width: 25rem;
+     margin-top: 2rem;
+     overflow-x: hidden;
+    
+   }
+ 
+  
+   .Service .Back {
+     margin-left: -28rem;
+     margin-top: 3rem;
+     justify-content: center;
+     overflow-x: hidden;
+   }
+   
+   .Service .Back b{
+     margin-left: 9rem;
+     overflow-x: hidden;
+   }
+  
+ 
+   .Service .row1 {
+     margin-left: 13rem;
+     width: 80rem;
+     display:grid;
+     overflow-x: hidden;
+     
+   }
+    
+   .card1{
+     padding: 16px;
+     margin-top: 2rem;
+     overflow-x: hidden;
+   }
+ 
+   .head .Title {
+     width: 15rem; 
+     height: 4rem;
+     font-size: 1.6rem;
+     margin-left: 17rem;
+     overflow-x: hidden;
+    }
+  
+
+ 
+    .howweworktext p{
+     font-size: 1.3rem;
+     
+     
+     overflow-x: hidden;
+     
+    }
+ 
+   .col-md-9 {
+      height: 25rem;
+      margin-top: -15rem;
+      margin-left: -20rem;
+      width: 50rem;
+      
+     }
+     
+     .contactcont{
+       width: 48rem;
+     }
+
+     .footer{
+       width: 48rem;
+     }
+
+
+}
+
+
+@media only screen and (max-width: 1200px) and (min-width: 992px)  {
+
+ 
+  body{
+    overflow-x: hidden;
+  }
+  .navbar-toggler{
+    color: white;
+  }
+   #EpicNav{
+     width: 45rem;
+     overflow-x: hidden;
+   }
+
+  
+   .text{
+     margin-left: 2rem;
+     overflow-x: hidden;
+   }
+ 
+   .con p{
+     margin-left: 2rem;
+     font-size: 5rem;
+     overflow-x: hidden;
+   }
+   
+   .col-md-7 img{
+     margin-left: 3rem;
+     margin-top: 2rem;
+     overflow-x: hidden;
+   }
+ 
+ *
+   .container .notecard{
+     margin-left:3rem;
+    display: flex;
+     
+   }
+ 
+   .port_head  .col-md-12 {
+     margin-top: 2rem;
+     margin-left: -14rem;
+     overflow-x: hidden;
+ 
+   }
+ 
+  
+  
+   .ValueHeading{
+    
+    padding-top: 35rem;
+    margin-left: -15rem;
+ }
+ 
+    .ValueHeading h2{
+      font-size: 1.3rem;
+      margin-left: -5rem;
+    }
+
+    .ValueHeading h1{
+      font-size: 2rem;
+    }
+   .main{
+     display:grid;
+     margin-left: 3rem;
+     width: 80rem;
+     overflow-x: hidden;
+   }
+   
+   .cards{
+     margin-left: 3rem;
+     width: 25rem;
+     margin-top: 2rem;
+     overflow-x: hidden;
+    
+   }
+ 
+ 
+   .Service .Back {
+     margin-left: -28rem;
+     margin-top: 3rem;
+     justify-content: center;
+     overflow-x: hidden;
+   }
+   
+   .Service .Back b{
+     margin-left: 7rem;
+     overflow-x: hidden;
+   }
+  
+ 
+   .Service .row1 {
+     margin-left: 11rem;
+     width: 80rem;
+     display:grid;
+     overflow-x: hidden;
+     
+   }
+    
+   .card1{
+     padding: 16px;
+     margin-top: 2rem;
+     overflow-x: hidden;
+   }
+ 
+
+   
+   .head .Title {
+     width: 12rem; 
+     height: 3rem;
+     font-size: 1.2rem;
+     margin-left: 17rem;
+     overflow-x: hidden;
+    }
+  
+
+ 
+    .howweworktext p{
+     font-size: 1rem;
+     margin-top: 14rem;
+     
+     
+     overflow-x: hidden;
+     
+    }
+ 
+   .col-md-9 {
+      height: 25rem;
+      margin-top: -15rem;
+      margin-left: -37rem;
+      width: 50rem;
+      
+     }
+     
+     .contactcont{
+       width: 40rem;
+     }
+
+     .footer{
+       width: 44rem;
+     }
+
+
+}
+
+/*****MIN 600 media END*****/
+
+/******Media Queries End******/
+
+.easy {
+  margin-top: -350px;
+  overflow: hidden;
+  margin-left: 700px;
+}
+
+.con {
+  margin-top: 230px;}
+
+/***********PortFolio Style*************/
+
+.port_head button {
+  background-image: linear-gradient(#9b1be4, #da49e0);
+  border: 0;
+  padding: px 30px;
+  color: #fff;
+  border-radius: 20px;
+  margin-top: 10px;
+  padding-top: -8px;
+  margin-left: 40px;
+  width: 200px;
+  height: 55px;
+}
+
+.port_head button b {
+  text-align: center;
+  font-size: 25px;
+}
+
+.container {
+  padding: 0px -40px 0px 155px;
+}
+
+
+.notecard {
+  background-color: white;
+  margin: 25px 50px 25px 80px;
+  width: 400px;
+  height: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  float: left;
+  border-radius: 10px;
+  border: 2px solid #9b1be4;
+  background-size: cover;
+  text-align: center;
+}
+
+.notecard:hover{
+  box-shadow:0 0 16px cyan;
+}
+
+.notecard img{
+  width:90%;
+    height:90%;
+    transition:.3s;
+    border-radius:4px;
+    position: relative;
+}
+
+.portext{
+  position: inherit;
+  width: 400px;
+  height: 250px;
+}
+
+.portext:hover :not(h3,h2){
+  filter:blur(8px) brightness(60%);
+}
+
+.portext :not(img){
+  position:absolute;
+  z-index:1;
+  top:30%;
+  width:100%;
+  text-align:center;
+  color: black;
+  font-weight: bold;
+  opacity:0;
+  transition:.3s;
+}
+
+.portext h3{
+  top:50%
+}
+
+.portext h2{
+  top:30%
+}
+
+.portext:hover :not(img){
+  opacity:2;
+}
+
+.svgimg {
+  position: fixed;
+  bottom: 10px;
+  right: 5px;
+}
+
+/**************Our values Style*******************/
+.columns {
+  float: left;
+  width: 32%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.main {margin-left: 120px;
+margin-top: 20px;}
+
+/* Clear floats after the columns */
+.main:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Style the counter cards */
+.cards {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color:white;
+}
+
+.cards p{
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    color: lightslategrey;
+}
+ .cards h3{
+     color:#b463eb ;
+ }
+
+ .ValueHeading{
+   margin-top: 600px;
+ }
+ .ValueHeading h2{
+    color:#b463eb ;
+    font-family: 'Segoe UI';
+    margin-left: 580px;
+    margin-top: 50px;
+ }
+
+ .ValueHeading h1{
+    color:#7b469e;
+    font-family: 'Segoe UI';
+    margin-left: 360px;
+ }
+ /*  
+.Values {
+  width: 85%;
+  height: 40%;
+  margin-left: 65px;
+  margin-right: 0px;
+  padding-top: 50px;
+}
+*/
+/*************Our Values End*******************/
+
+/*********Services We Provide*****/
+
+.column1 {
+  float: left;
+  width: 32%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row1 {
+  margin-left: 120px;
+}
+
+/* Clear floats after the columns */
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Style the counter cards */
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: white;
+}
+
+.card1 p {
+  font-family: "Segoe UI";
+  font-size: 16px;
+  color: lightslategrey;
+}
+.card1 h4 {
+  color: #b463eb;
+}
+
+.Back h2 {
+  color: #7b469e;
+  font-family: "Segoe UI";
+  margin-left: 620px;
+}
+/*********Services We Provide End*****/
+
+/*********How we work*****/
+
+.Title {
+  width: 200px;
+  height: 55px;
+  border-radius: 15px;
+  background-image: linear-gradient(#9b1be4, #da49e0);
+  color: white;
+  font-size: 20px;
+  font-family: Segoe UI;
+  margin-left: 630px;
+
+  margin-top: 70px;
+  border: #9b1be4;
+}
+
+.howweworkimg img {
+  width: 40%;
+  margin-left: 770px;
+  margin-top: -310px;
+  opacity: 1;
+  overflow-x: hidden;
+}
+
+.howweworktext {
+  margin-left: 10%;
+  margin-top: 100px;
+  font-family: Segoe UI;
+  overflow-x: hidden;
+  
+}
+
+.howweworktext p{
+  padding-right: 10rem;
+}
+
+/*********How we work END*****/
+
+/******************Contact Form and footer*************************/
+
+.contactcont {
+  background-color: #fafbff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 25px 30px 25px 30px;
+  margin: 25px 60px 25px 60px;
+}
+
+.contactcont .section-header h2 {
+  font-size: 34px;
+  color: #4f1372;
+  font-family: "Nunito", sans-serif;
+  font-weight: 100;
+}
+
+.contact .info-box {
+  color: #444444;
+  background: white;
+  padding: 5px;
+  margin: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.contact .info-box i {
+  font-size: 38px;
+  line-height: 0;
+  color: #4154f1;
+}
+
+.contact .info-box h3 {
+  font-size: 20px;
+  color: #012970;
+  font-weight: 700;
+  margin: 20px 0 10px 0;
+}
+
+.contact .info-box p {
+  padding: 0;
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.contact .email-form {
+  background: white;
+  padding: 20px 35px;
+  /*height: 100%;*/
+  margin: 12px 14px -10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.contact .email-form .ab {
+  padding: 7px;
+}
+
+.contact .email-form .ab .form-control {
+  border-radius: 4px;
+}
+
+.contact .email-form .ab .form-control:focus {
+  border-color: rgb(12, 95, 173);
+}
+
+.contact .email-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 24px;
+  font-weight: 600;
+}
+
+.contact .email-form input,
+.contact .email-form textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+  border-radius: 0;
+}
+
+.contact .email-form input:focus,
+.contact .email-form textarea:focus {
+  border-color: #3c0e57;
+}
+
+.contact .email-form input {
+  padding: 10px 15px;
+}
+
+.contact .email-form textarea {
+  padding: 12px 15px;
+}
+
+.contact .email-form button[type="submit"] {
+  background: #4f1372;
+  border: 0;
+  padding: 8px 8px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.contact .email-form button[type="submit"]:hover {
+  background: #3c0e57;
+}
+
+/*--------------------------------------------------------------
+        # Footer
+        --------------------------------------------------------------*/
+.footer {
+  background: #f6f9ff;
+  padding: 0 0 30px 0;
+  font-size: 14px;
+}
+
+.footer .footer-newsletter {
+  padding: 50px 0;
+  background: #f6f9ff;
+  border-top: 1px solid #e1ecff;
+}
+
+.footer .footer-newsletter h4 {
+  font-size: 24px;
+  margin: 0 0 10px 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  color: #012970;
+}
+
+.footer .footer-newsletter form {
+  margin-top: 20px;
+  background: #fff;
+  padding: 6px 10px;
+  position: relative;
+  border-radius: 4px;
+  border: 1px solid #e1ecff;
+}
+
+.footer .footer-newsletter form input[type="email"] {
+  border: 0;
+  padding: 8px;
+  width: calc(100% - 140px);
+}
+
+.footer .footer-newsletter form input[type="submit"] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border: 0;
+  background: none;
+  font-size: 16px;
+  padding: 0 30px;
+  margin: 3px;
+  background: #4154f1;
+  color: #fff;
+  transition: 0.3s;
+  border-radius: 4px;
+}
+
+.footer .footer-newsletter form input[type="submit"]:hover {
+  background: #5969f3;
+}
+
+.footer .footer-top {
+  background: white url(world\ map\ 2.png) no-repeat right top;
+  background-size: contain;
+  border-top: 1px solid #e1ecff;
+  border-bottom: 1px solid #e1ecff;
+  padding: 60px 0 30px 0;
+}
+
+.footer .footer-top .footer-info {
+  margin-bottom: 30px;
+}
+
+.footer .footer-top .footer-info .logo {
+  line-height: 0;
+  margin-bottom: 6px;
+}
+
+.footer .footer-top .footer-info .logo img {
+  max-height: 55px;
+  margin-right: 6px;
+}
+
+.footer .footer-top .footer-info .logo span {
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #4f1372;
+  font-family: "Nunito", sans-serif;
+  margin-top: 3px;
+}
+
+.footer .footer-top .footer-info p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  font-family: "Nunito", sans-serif;
+}
+
+.footer .footer-top .social-links .fa {
+  padding: -10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  background: white;
+  color: black;
+  opacity: 0.6;
+  margin-top: -20px;
+}
+
+.footer .footer-top .social-links .fa:hover {
+  background: white;
+  color: gray;
+  opacity: 0.6;
+}
+
+.footer .footer-top h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #4f1372;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 12px;
+}
+
+.footer .footer-top .footer-links {
+  margin-bottom: 30px;
+}
+
+.footer .footer-top .footer-links h4 {
+  color: #4f1372;
+}
+
+.footer .footer-top .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer .footer-top .footer-links ul i {
+  padding-right: 2px;
+  color: #d0d4fc;
+  font-size: 12px;
+  line-height: 0;
+}
+
+.footer .footer-top .footer-links ul li {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+.footer .footer-top .footer-links ul li:first-child {
+  padding-top: 0;
+}
+
+.footer .footer-top .footer-links ul a {
+  color: #013289;
+  transition: 0.3s;
+  display: inline-block;
+  line-height: 1;
+}
+
+.footer .footer-top .footer-links ul a:hover {
+  color: #4154f1;
+}
+
+.footer .footer-top .footer-contact p {
+  line-height: 26px;
+}
+
+.footer .copyright {
+  text-align: center;
+  padding-top: 30px;
+  color: #012970;
+}
+
+.footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #012970;
+}
